@@ -1,0 +1,7 @@
+# Project 1
+Objective - 
+1) Create index.html
+2) Generate Boiler Plate.
+3) Add comments 
+4) Use case insensitive tags 
+5) Type something to display on web page
