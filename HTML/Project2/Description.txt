@@ -1,0 +1,6 @@
+Project 2:
+objective -
+1) Create a page with heading,paragraph,line breaks and seperators.
+2)Use an image with height 300, which is link to another page.
+3)Use bold,italic,underline ans strike through in one line.
+4)Write third equation of motion using superscript and subscript.
