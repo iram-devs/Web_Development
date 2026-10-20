@@ -1,0 +1,6 @@
+Project 4:
+objective-
+1) Create a page with header , footer , main(section,article,aside tag).
+2)Make sure the project till now has correct folder structure.
+3)Create grouping of multiple tags using div.
+4)Create navigation to important sections of your page.
